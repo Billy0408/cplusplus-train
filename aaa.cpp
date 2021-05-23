@@ -64,4 +64,6 @@ int main()
         }
         cout << cou << endl;
     }
+
+    //add by fengbing
 }
